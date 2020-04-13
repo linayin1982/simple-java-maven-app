@@ -15,6 +15,7 @@ public class App
     }
 
     private final String getMessage() {
+        System.out.println("Hello, this is maggie's 1st commit!");
         return message;
     }
 
